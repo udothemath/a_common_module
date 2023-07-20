@@ -6,3 +6,5 @@ b
 c
 
 hello world
+
+few words from proj_a

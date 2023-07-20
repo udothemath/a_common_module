@@ -8,3 +8,5 @@ c
 hello world
 
 few words from proj_a
+
+add few workds from proj_b
